@@ -3,9 +3,9 @@
 
 
 
-- short 高性能短链接服务 https://short.me
+- short 高性能短链接服务 https://short.imgoogege.xyz
 
-- arrow 高性能秒杀系统 https://arrow.me
+- arrow 高性能秒杀系统 https://arrow.imgoogege.xyz
 
 - GOFamily 后端学习知识框架 https://github.com/googege/GOFamily
 
