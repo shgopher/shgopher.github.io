@@ -1,7 +1,4 @@
 # 作品集锦
-[个人简历](./me.pdf)
-
-
 
 - [Short](http://short.imgoogege.xyz), [源码](https://github.com/googege/short)：高性能短链接服务 
 
