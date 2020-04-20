@@ -1,8 +1,8 @@
 # 作品集锦
 
-- [Short](http://short.imgoogege.xyz), [源码](https://github.com/googege/short)：高性能短链接服务 
+- [Short](https://github.com/googege/short)：高性能短链接服务 
 
-- [Arrow](http://arrow.imgoogege.xyz), [源码](https://github.com/googege/arrow)：高性能秒杀系统 
+- [Arrow](https://github.com/googege/arrow)：高性能秒杀系统 
 
 - [how](https://github.com/googege/how)：使用 GO 编写的压力测试系统
 
