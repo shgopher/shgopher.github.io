@@ -118,6 +118,9 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
             }
           },
           "_name": "header7",
@@ -163,6 +166,9 @@
               }
             },
             ".mbr-text, .mbr-section-btn": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
               "text-align": "left"
             }
           },
