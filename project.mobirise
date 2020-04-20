@@ -115,6 +115,9 @@
                   }
                 }
               }
+            },
+            ".mbr-text, .mbr-section-btn": {
+              "text-align": "left"
             }
           },
           "_name": "header7",
