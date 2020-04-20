@@ -4,6 +4,8 @@
 
 - [Arrow](http://arrow.imgoogege.xyz), [源码](https://github.com/googege/arrow)：高性能秒杀系统 
 
+- [how](https://github.com/googege/how)：使用 GO 编写的压力测试系统
+
 - [GOFamily](https://github.com/googege/GOFamily)：后端学习知识框架 
 
 - [Godata](https://github.com/googege/godata)：一个补充go标准库的数据结构项目 
