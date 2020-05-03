@@ -631,7 +631,13 @@ section.lazy-placeholder:after {
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
   text-align: center;
+  color: #c1c1c1;
+}
+.cid-qTkA127IK8 H1 {
   color: #efefef;
+}
+.cid-qTkA127IK8 H3 {
+  color: #c1c1c1;
 }
 .cid-rWHrXwuatN {
   padding-top: 90px;
