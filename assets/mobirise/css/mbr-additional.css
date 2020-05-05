@@ -735,6 +735,10 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
+.cid-rWI7PBNFLg .mbr-text,
+.cid-rWI7PBNFLg .mbr-section-btn {
+  text-align: left;
+}
 .cid-rWHYnmclTE {
   padding-top: 60px;
   padding-bottom: 60px;
