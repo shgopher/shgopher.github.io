@@ -7,7 +7,7 @@ links:
       - sitename: GOFamily
         url: https://shgopher.github.io/GOFamily/
         img: /images/link/gofamily1.jpeg
-        desc: go 后端程序员宝典，包含了：算法，数据库，网络操作系统，分布式，系统设计等一揽子知识体系。
+        desc: go 后端程序员宝典，包含了：算法，数据库，网络操作系统，分布式，系统设计等一揽子知识体系
         
   - title: 基础技术
     items:
