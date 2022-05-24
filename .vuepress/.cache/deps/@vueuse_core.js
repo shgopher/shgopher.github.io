@@ -3,7 +3,7 @@ import {
   isVue2,
   isVue3,
   set
-} from "./chunk-Y6TYPN6V.js";
+} from "./chunk-G34QONTC.js";
 import {
   computed,
   customRef,
@@ -31,9 +31,9 @@ import {
   unref,
   watch,
   watchEffect
-} from "./chunk-E4USTHC3.js";
-import "./chunk-47IOU6N4.js";
-import "./chunk-K2ZLCLLJ.js";
+} from "./chunk-EVPSLMDQ.js";
+import "./chunk-JRBXTOI6.js";
+import "./chunk-KO5F7VF7.js";
 
 // node_modules/@vueuse/shared/index.mjs
 var __defProp$8 = Object.defineProperty;

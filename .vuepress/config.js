@@ -13,21 +13,22 @@ module.exports = {
   dest: '.vuepress/dist',
 
   theme: gungnirTheme({
-    giscus: {
-      repo: "shgopher/shgopher.github.io",  // 必须，string，格式：user_name/repo_name
-      repoId: "MDEwOlJlcG9zaXRvcnkyNTUwNjI1OTI=",  // 必须，string，在 Giscus 官网上生成
-      category: "Announcements",  // 必须，string
-      categoryId: "DIC_kwDODzPyQM4CPQiK",  // 必须，string，在 Giscus 官网上生成
-      mapping: "[页面 <-> discussion 映射]",  // 可选，string，default="title"
-      reactionsEnabled: "[是否启用 reaction]",  // 可选，boolean，default=true
-      lang: "[语言]",  // 可选，string，default="auto"（跟随网站语言，如果 Giscus 不支持你的网站的语言，则会使用 "en"）
-      lazyLoad: true,  // 可选，boolean，default=false（如果设为 true，Giscus 的加载将延迟到用户滚动到评论容器附近）
-      crossorigin: "[crossorigin]",  // 可选，string，default="anonymous"
-      theme: "[light 模式主题]",  // 可选，string，default="light"
-      darkTheme: "[dark 模式主题]"  // 可选，string，default="dark_dimmed"
-    },
+    
     themePlugins: {
-      ba: "664c7b8c233246eb060442d116b7b15d"
+      ba: "664c7b8c233246eb060442d116b7b15d",
+      giscus: {
+        repo: "shgopher/shgopher.github.io",  // 必须，string，格式：user_name/repo_name
+        repoId: "MDEwOlJlcG9zaXRvcnkyNTUwNjI1OTI=",  // 必须，string，在 Giscus 官网上生成
+        category: "Announcements",  // 必须，string
+        categoryId: "DIC_kwDODzPyQM4CPQiK",  // 必须，string，在 Giscus 官网上生成
+        mapping: "[页面 <-> discussion 映射]",  // 可选，string，default="title"
+        reactionsEnabled: "[是否启用 reaction]",  // 可选，boolean，default=true
+        lang: "[语言]",  // 可选，string，default="auto"（跟随网站语言，如果 Giscus 不支持你的网站的语言，则会使用 "en"）
+        lazyLoad: true,  // 可选，boolean，default=false（如果设为 true，Giscus 的加载将延迟到用户滚动到评论容器附近）
+        crossorigin: "[crossorigin]",  // 可选，string，default="anonymous"
+        theme: "[light 模式主题]",  // 可选，string，default="light"
+        darkTheme: "[dark 模式主题]"  // 可选，string，default="dark_dimmed"
+      },
       },
     
     navbar: [
