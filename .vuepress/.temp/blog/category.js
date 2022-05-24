@@ -1,4 +1,4 @@
-export const categoryMap = {"tag":{"/":{"path":"/tags/","map":{"doc":{"path":"/tags/doc/","keys":["v-eab86474"]}}}}}
+export const categoryMap = {"tag":{"/":{"path":"/tags/","map":{"doc":{"path":"/tags/doc/","keys":["v-bc72f446","v-b4827506"]}}}}}
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

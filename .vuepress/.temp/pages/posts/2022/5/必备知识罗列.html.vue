@@ -1,0 +1,59 @@
+<template><h2 id="go" tabindex="-1"><a class="header-anchor" href="#go" aria-hidden="true">#</a> GO</h2>
+<ul>
+<li>基础</li>
+<li>并发</li>
+<li>runtime</li>
+<li>工程</li>
+</ul>
+<h2 id="_408" tabindex="-1"><a class="header-anchor" href="#_408" aria-hidden="true">#</a> 408</h2>
+<ul>
+<li>算法</li>
+<li>网络</li>
+<li>数据库</li>
+<li>操作系统</li>
+<li>组成原理</li>
+<li>设计模式</li>
+</ul>
+<h2 id="架构设计" tabindex="-1"><a class="header-anchor" href="#架构设计" aria-hidden="true">#</a> 架构设计</h2>
+<ul>
+<li>架构设计基础</li>
+<li>消息队列</li>
+<li>rpc框架</li>
+<li>网关</li>
+<li>搜索引擎</li>
+<li>容器</li>
+<li>实战</li>
+</ul>
+<h2 id="技术方向" tabindex="-1"><a class="header-anchor" href="#技术方向" aria-hidden="true">#</a> 技术方向</h2>
+<ul>
+<li>云技术</li>
+<li>区块链</li>
+<li>大数据</li>
+<li>人工智能</li>
+<li>边缘计算</li>
+<li>自动驾驶</li>
+<li>检索技术</li>
+<li>推荐系统</li>
+<li>游戏开发</li>
+<li>后端开发</li>
+<li>前端开发</li>
+<li>ios开发</li>
+<li>安卓开发</li>
+<li>鸿蒙开发</li>
+</ul>
+<h2 id="其它" tabindex="-1"><a class="header-anchor" href="#其它" aria-hidden="true">#</a> 其它</h2>
+<ul>
+<li>git</li>
+<li>devOps</li>
+<li>正则表达式</li>
+<li>ddd</li>
+<li>okr</li>
+<li>auth</li>
+<li>重构技术</li>
+<li>性能优化技术</li>
+<li>debug技术</li>
+<li>线上快速排障</li>
+<li>测试</li>
+<li>程序员</li>
+</ul>
+</template>

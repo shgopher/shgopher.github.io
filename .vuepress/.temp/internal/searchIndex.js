@@ -8,6 +8,15 @@ export const searchIndex = [
     "layout": "Links"
   },
   {
+    "title": "必备知识",
+    "subtitle": "耗子叔推荐的",
+    "headers": [],
+    "path": "/posts/2022/5/%E5%BF%85%E5%A4%87%E7%9F%A5%E8%AF%86.html",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Post"
+  },
+  {
     "title": "程序员必备知识大全",
     "subtitle": "程序员需要掌握的基本知识",
     "headers": [
@@ -42,7 +51,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/posts/2022-5-23.html",
+    "path": "/posts/2022/5/%E5%BF%85%E5%A4%87%E7%9F%A5%E8%AF%86%E7%BD%97%E5%88%97.html",
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
@@ -88,3 +97,16 @@ export const searchIndex = [
     "layout": "HomePage"
   }
 ]
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ searchIndex }) => {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  })
+}

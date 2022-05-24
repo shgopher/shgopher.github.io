@@ -14,7 +14,7 @@ export const data = {
             "sitename": "GOFamily",
             "url": "https://shgopher.github.io/GOFamily/",
             "img": "/images/link/gofamily1.jpeg",
-            "desc": "go 后端程序员宝典，包含了：算法，数据库，网络操作系统，分布式，系统设计等一揽子知识体系。"
+            "desc": "go 后端程序员宝典，包含了：算法，数据库，网络操作系统，分布式，系统设计等一揽子知识体系"
           }
         ]
       },
@@ -57,7 +57,20 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1653357253000
+    "updatedTime": 1653358250000
   },
   "filePathRelative": "links/README.md"
+}
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
 }
