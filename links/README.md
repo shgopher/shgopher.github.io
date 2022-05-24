@@ -7,11 +7,7 @@ links:
       - sitename: GOFamily
         url: https://shgopher.github.io/GOFamily/
         img: /images/link/gofamily1.jpeg
-        desc: go 后端程序员宝典，包含了：基础语法，并发，运行时，和工程方面的一系列围绕着go相关的解决方案
-      - sitename: git
-        url: https://shgopher.github.io/git/
-        img: /images/link/git.png
-        desc: 讲解git的基础操作，以及进阶操作，彻底掌握git
+        desc: go 后端程序员宝典，包含了：算法，数据库，网络操作系统，分布式，系统设计等一揽子知识体系
         
   - title: 基础技术
     items:
