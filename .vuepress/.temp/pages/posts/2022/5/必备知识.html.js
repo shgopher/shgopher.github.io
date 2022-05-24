@@ -17,7 +17,7 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": null
+    "updatedTime": 1653359398000
   },
   "readingTime": {
     "minutes": 1,

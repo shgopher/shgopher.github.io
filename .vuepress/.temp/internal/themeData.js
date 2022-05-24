@@ -1,4 +1,17 @@
 export const themeData = {
+  "giscus": {
+    "repo": "shgopher/shgopher.github.io",
+    "repoId": "MDEwOlJlcG9zaXRvcnkyNTUwNjI1OTI=",
+    "category": "Announcements",
+    "categoryId": "DIC_kwDODzPyQM4CPQiK",
+    "mapping": "[页面 <-> discussion 映射]",
+    "reactionsEnabled": "[是否启用 reaction]",
+    "lang": "[语言]",
+    "lazyLoad": true,
+    "crossorigin": "[crossorigin]",
+    "theme": "[light 模式主题]",
+    "darkTheme": "[dark 模式主题]"
+  },
   "navbar": [
     {
       "text": "home",
