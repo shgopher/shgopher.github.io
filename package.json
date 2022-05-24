@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "dev": "vuepress dev . ",
+    "build": "vuepress build . "
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.45",
+    "vuepress-theme-gungnir": "^2.0.0-alpha.23"
+  },
+  "name": "shgopher.github.io",
+  "version": "1.0.0",
+  "description": "科科人神的个人介绍",
+  "main": "index.js",
+  "repository": "https://github.com/shgopher/shgopher.github.io",
+  "author": "shgopher@qq.com",
+  "license": "MIT"
+}
