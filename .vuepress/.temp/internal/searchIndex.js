@@ -1,5 +1,13 @@
 export const searchIndex = [
   {
+    "title": "链接",
+    "headers": [],
+    "path": "/links/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Links"
+  },
+  {
     "title": "程序员必备知识大全",
     "subtitle": "程序员需要掌握的基本知识",
     "headers": [
@@ -38,14 +46,6 @@ export const searchIndex = [
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
-  },
-  {
-    "title": "链接",
-    "headers": [],
-    "path": "/links/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Links"
   },
   {
     "title": "",
