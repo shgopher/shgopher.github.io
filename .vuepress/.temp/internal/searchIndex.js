@@ -1,13 +1,5 @@
 export const searchIndex = [
   {
-    "title": "链接",
-    "headers": [],
-    "path": "/links/",
-    "pathLocale": "/",
-    "extraFields": [],
-    "layout": "Links"
-  },
-  {
     "title": "程序员必备知识大全",
     "subtitle": "程序员需要掌握的基本知识",
     "headers": [
@@ -46,6 +38,14 @@ export const searchIndex = [
     "pathLocale": "/",
     "extraFields": [],
     "layout": "Post"
+  },
+  {
+    "title": "链接",
+    "headers": [],
+    "path": "/links/",
+    "pathLocale": "/",
+    "extraFields": [],
+    "layout": "Links"
   },
   {
     "title": "",
@@ -88,16 +88,3 @@ export const searchIndex = [
     "layout": "HomePage"
   }
 ]
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ searchIndex }) => {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  })
-}

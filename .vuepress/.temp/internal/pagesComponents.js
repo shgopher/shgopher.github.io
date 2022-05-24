@@ -1,10 +1,10 @@
 import { defineAsyncComponent } from 'vue'
 
 export const pagesComponents = {
-  // path: /links/
-  "v-f0388862": defineAsyncComponent(() => import(/* webpackChunkName: "v-f0388862" */"/Users/shgopher/Desktop/1/shgopher.github.io/.vuepress/.temp/pages/links/index.html.vue")),
   // path: /posts/2022-5-23.html
   "v-eab86474": defineAsyncComponent(() => import(/* webpackChunkName: "v-eab86474" */"/Users/shgopher/Desktop/1/shgopher.github.io/.vuepress/.temp/pages/posts/2022-5-23.html.vue")),
+  // path: /links/
+  "v-f0388862": defineAsyncComponent(() => import(/* webpackChunkName: "v-f0388862" */"/Users/shgopher/Desktop/1/shgopher.github.io/.vuepress/.temp/pages/links/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/Users/shgopher/Desktop/1/shgopher.github.io/.vuepress/.temp/pages/404.html.vue")),
   // path: /tags/
