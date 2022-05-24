@@ -14,6 +14,10 @@ module.exports = {
 
   theme: gungnirTheme({
 
+    themePlugins: {
+      ba: "664c7b8c233246eb060442d116b7b15d"
+    },
+    
     navbar: [
       {
         text:"home",
