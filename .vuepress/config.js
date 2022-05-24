@@ -94,20 +94,44 @@ module.exports = {
       // 图 1
       
       {
-        "path": "/images/bg/3.jpeg",
+        "path": "/images/bg/bg1.jpeg",
         "mask": "rgba(0, 0, 0, .2)"
       },
       
       {
-        "path": "/images/bg/8.jpeg",
+        "path": "/images/bg/bg2.jpeg",
         "mask": "rgba(0, 0, 0, .2)"
       },
       {
-        "path": "/images/bg/11.jpeg",
+        "path": "/images/bg/bg3.jpeg",
         "mask": "rgba(0, 0, 0, .2)"
       },
       {
-        "path": "/images/bg/14.jpeg",
+        "path": "/images/bg/bg4.png",
+        "mask": "rgba(0, 0, 0, .2)"
+      },
+      {
+        "path": "/images/bg/bg5.jpeg",
+        "mask": "rgba(0, 0, 0, .2)"
+      },
+      {
+        "path": "/images/bg/bg6.jpeg",
+        "mask": "rgba(0, 0, 0, .2)"
+      },
+      {
+        "path": "/images/bg/bg7.jpeg",
+        "mask": "rgba(0, 0, 0, .2)"
+      },
+      {
+        "path": "/images/bg/bg8.jpeg",
+        "mask": "rgba(0, 0, 0, .2)"
+      },
+      {
+        "path": "/images/bg/bg9.png",
+        "mask": "rgba(0, 0, 0, .2)"
+      },
+      {
+        "path": "/images/bg/bg10.jpeg",
         "mask": "rgba(0, 0, 0, .2)"
       },
     ],

@@ -8,6 +8,22 @@ links:
         url: https://shgopher.github.io/GOFamily/
         img: /images/link/gofamily1.jpeg
         desc: go 后端程序员宝典，包含了：算法，数据库，网络操作系统，分布式，系统设计等一揽子知识体系
+      - sitename: 408
+        url: https://shgopher.github.io/408/
+        img: /images/link/408.png
+        desc: 408，包含了：算法，数据库，网络操作系统，等一揽子知识体系
+      - sitename: luban
+        url: https://shgopher.github.io/luban/
+        img: /images/link/luban.png
+        desc: 鲁班，包含了：分布式，系统设计,容器 等一揽子知识体系
+      - sitename: dingdang
+        url: https://shgopher.github.io/dingdang/
+        img: /images/link/dingdang.jpeg
+        desc: 叮当，包含了：git，ddd，okr，测试，devOps 等一揽子知识体系
+      - sitename: god
+        url: https://shgopher.github.io/god/
+        img: /images/link/god.png
+        desc: 程序员才是真神！这个教程包括了面经，投资，惯例，运营，营销等众多内容。
         
   - title: 基础技术
     items:

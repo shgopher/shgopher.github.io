@@ -1,0 +1,17 @@
+{"Time":"2022-05-24T03:47:24Z","Title":"","Type":"INFO","Message":"Using destination: shgopher.github.io, ip: 185.199.109.153, port: 443"}
+{"Time":"2022-05-24T03:47:26Z","Title":"","Type":"INFO","Message":"[tcp] [warmup] Connection from [192.168.199.122]:57005 to [185.199.109.153]:443: 86.586ms"}
+{"Time":"2022-05-24T03:47:27Z","Title":"","Type":"INFO","Message":"[tcp] Connection from [192.168.199.122]:57007 to [185.199.109.153]:443: 80.134ms"}
+{"Time":"2022-05-24T03:47:28Z","Title":"","Type":"INFO","Message":"[tcp] Connection from [192.168.199.122]:57009 to [185.199.109.153]:443: 72.419ms"}
+{"Time":"2022-05-24T03:47:29Z","Title":"","Type":"INFO","Message":"[tcp] Connection from [192.168.199.122]:57011 to [185.199.109.153]:443: 57.696ms"}
+{"Time":"2022-05-24T03:47:30Z","Title":"","Type":"INFO","Message":"[tcp] Connection from [192.168.199.122]:57013 to [185.199.109.153]:443: 65.815ms"}
+{"Time":"2022-05-24T03:47:31Z","Title":"","Type":"INFO","Message":"[tcp] Connection from [192.168.199.122]:57015 to [185.199.109.153]:443: 66.862ms"}
+{"Time":"2022-05-24T03:47:32Z","Title":"","Type":"INFO","Message":"[tcp] Connection from [192.168.199.122]:57017 to [185.199.109.153]:443: 66.745ms"}
+{"Time":"2022-05-24T03:47:33Z","Title":"","Type":"INFO","Message":"[tcp] Connection from [192.168.199.122]:57020 to [185.199.109.153]:443: 71.768ms"}
+{"Time":"2022-05-24T03:47:34Z","Title":"","Type":"INFO","Message":"[tcp] Connection from [192.168.199.122]:57022 to [185.199.109.153]:443: 79.483ms"}
+{"Time":"2022-05-24T03:47:35Z","Title":"","Type":"INFO","Message":"[tcp] Connection from [192.168.199.122]:57024 to [185.199.109.153]:443: 67.059ms"}
+{"Time":"2022-05-24T03:47:36Z","Title":"","Type":"INFO","Message":"[tcp] Connection from [192.168.199.122]:57026 to [185.199.109.153]:443: 66.069ms"}
+{"Time":"2022-05-24T03:47:37Z","Title":"","Type":"INFO","Message":"TCP connect statistics for [185.199.109.153]:443:"}
+{"Time":"2022-05-24T03:47:37Z","Title":"","Type":"INFO","Message":"  Sent = 10, Received = 10, Lost = 0"}
+{"Time":"2022-05-24T03:47:37Z","Title":"","Type":"LatencyResult","RemoteAddr":"185.199.109.153","Protocol":"TCP","Avg":"69.405ms","Min":"57.696ms","P50":"80.134ms","P90":"66.862ms","P95":"79.483ms","P99":"79.483ms","P999":"79.483ms","P9999":"79.483ms","Max":"79.483ms"}
+{"Time":"2022-05-24T03:47:38Z","Title":"","Type":"INFO","Message":"Ethr done, duration: 10s."}
+{"Time":"2022-05-24T03:47:38Z","Title":"","Type":"INFO","Message":"Hint: Use -d parameter to change duration of the test."}
