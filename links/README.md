@@ -45,4 +45,8 @@ links:
         url: https://github.com/shgopher/short
         img: /images/link/short.jpeg
         desc: 简单的短链接服务
+      - sitename: ka
+        url: https://github.com/shgopher/ka
+        img: /images/link/ka.png
+        desc: 简单的短链接服务
 ---
