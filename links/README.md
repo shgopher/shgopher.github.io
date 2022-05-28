@@ -48,5 +48,5 @@ links:
       - sitename: ka
         url: https://github.com/shgopher/ka
         img: /images/link/ka.png
-        desc: 简单的短链接服务
+        desc: 秒杀服务
 ---
