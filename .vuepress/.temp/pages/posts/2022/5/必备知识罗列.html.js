@@ -9,9 +9,9 @@ export const data = {
     "subtitle": "程序员需要掌握的基本知识",
     "author": "科科人神",
     "date": "2022-5-24",
-    "headerImage": "/images/post/2022-5-24/1.png",
+    "headerImage": "/images/post/2022/5/1.png",
     "tags": [
-      "doc"
+      "basic"
     ]
   },
   "excerpt": "",
@@ -48,7 +48,7 @@ export const data = {
     }
   ],
   "git": {
-    "updatedTime": 1653359398000
+    "updatedTime": 1654133636000
   },
   "readingTime": {
     "minutes": 1,

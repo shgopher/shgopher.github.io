@@ -73,6 +73,12 @@ export const data = {
             "url": "https://github.com/shgopher/short",
             "img": "/images/link/short.jpeg",
             "desc": "简单的短链接服务"
+          },
+          {
+            "sitename": "ka",
+            "url": "https://github.com/shgopher/ka",
+            "img": "/images/link/ka.png",
+            "desc": "秒杀服务"
           }
         ]
       }
@@ -81,7 +87,7 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": 1653358250000
+    "updatedTime": 1653774530000
   },
   "filePathRelative": "links/README.md"
 }

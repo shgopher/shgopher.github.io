@@ -1,17 +1,17 @@
 export const data = {
-  "key": "v-bc72f446",
-  "path": "/posts/2022/5/%E5%BF%85%E5%A4%87%E7%9F%A5%E8%AF%86.html",
-  "title": "必备知识",
+  "key": "v-fc334714",
+  "path": "/posts/2022/6/%E4%B8%8B%E8%BD%BD%E6%9C%80%E6%96%B0%E7%9A%84go%E7%89%88%E6%9C%AC.html",
+  "title": "如何下载最新的go版本",
   "lang": "zh_CN",
   "frontmatter": {
     "layout": "Post",
-    "title": "必备知识",
-    "subtitle": "耗子叔推荐的",
+    "title": "如何下载最新的go版本",
+    "subtitle": "讲解使用go install 下载&编译go版本",
     "author": "科科人神",
-    "date": "2022-5-24",
-    "headerImage": "/images/post/2022/5/2.png",
+    "date": "2022-6-2",
+    "headerImage": "/images/post/2022/6/1.jpeg",
     "tags": [
-      "basic"
+      "go"
     ]
   },
   "excerpt": "",
@@ -21,9 +21,9 @@ export const data = {
   },
   "readingTime": {
     "minutes": 1,
-    "words": 2
+    "words": 202
   },
-  "filePathRelative": "posts/2022/5/必备知识.md"
+  "filePathRelative": "posts/2022/6/下载最新的go版本.md"
 }
 
 if (import.meta.webpackHot) {
