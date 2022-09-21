@@ -38,12 +38,12 @@ module.exports = {
         icon:"hi-solid-home"
       },
       {
-        text:"标签",
+        text:"分类",
         link:"/tags/",
         icon:"bi-tags-fill"
       },
       {
-        text:"作品合集",
+        text:"推荐",
         link:"/links/",
         icon:"fa-staylinked"
       },
