@@ -43,7 +43,7 @@ module.exports = {
         icon:"bi-tags-fill"
       },
       {
-        text:"推荐",
+        text:"作品合集",
         link:"/links/",
         icon:"fa-staylinked"
       },
