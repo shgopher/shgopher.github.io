@@ -41,7 +41,7 @@ jobs:
 
       # 运行构建脚本
       - name : Download required dependencies
-        run : yan
+        run : yarn
 
       - name: Build VuePress site
         run: yarn build
