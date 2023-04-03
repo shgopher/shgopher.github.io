@@ -38,7 +38,7 @@ module.exports = {
         icon:"hi-solid-home"
       },
       {
-        text:"分类",
+        text:"归档",
         link:"/tags/",
         icon:"bi-tags-fill"
       },
@@ -141,7 +141,7 @@ module.exports = {
       // 标签页配置
       tags: {
         // 可选：标签页副标题
-        subtitle: '标签页面墙',
+        subtitle: '归档',
 
         // 可选：标签页封面图路径和蒙版
         bgImage: {
