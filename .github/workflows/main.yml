@@ -40,6 +40,9 @@ jobs:
         run: yarn --frozen-lockfile
 
       # 运行构建脚本
+      - name : Download required dependencies
+        run : yan
+
       - name: Build VuePress site
         run: yarn build
 
