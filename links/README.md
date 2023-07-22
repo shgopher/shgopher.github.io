@@ -2,6 +2,12 @@
 layout: Links
 title: 链接
 links:
+  - title: 简历
+      items:
+        - sitename: 个人简历
+          url: https://github.com/shgopher/me
+          img: /images/link/shgopher-profile.png
+          desc: 我的个人简历
   - title: 教程
     items:
       - sitename: GOFamily
