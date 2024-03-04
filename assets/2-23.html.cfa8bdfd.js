@@ -1,0 +1,1 @@
+import{_ as e,o as t,a as o,b as c}from"./app.e0455488.js";const _={},a=c("a",{href:"/pdf/leetcode-collection.pdf"},"pdf",-1),r=[a];function s(n,l){return t(),o("p",null,r)}var d=e(_,[["render",s],["__file","2-23.html.vue"]]);export{d as default};

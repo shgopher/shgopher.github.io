@@ -1,0 +1,1 @@
+const t={key:"v-abc7516c",path:"/tags/go/",title:"go | Tags",lang:"zh_CN",frontmatter:{title:"go | Tags",layout:"Tags",blog:{type:"category",name:"go",key:"tag"}},excerpt:"",headers:[],git:{},filePathRelative:null};export{t as data};

@@ -1,0 +1,1 @@
+const t={key:"v-abc77fec",path:"/tags/ai/",title:"AI | Tags",lang:"zh_CN",frontmatter:{title:"AI | Tags",layout:"Tags",blog:{type:"category",name:"AI",key:"tag"}},excerpt:"",headers:[],git:{},filePathRelative:null};export{t as data};

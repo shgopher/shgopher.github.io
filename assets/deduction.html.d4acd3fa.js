@@ -1,0 +1,1 @@
+const e={key:"v-9a8c7836",path:"/posts/2023/4/docs/Dep/docs/references/deduction.html",title:"Import Path Deduction",lang:"zh_CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1680550024e3},readingTime:{minutes:2,words:362},filePathRelative:"posts/2023/4/docs/Dep/docs/references/deduction.md"};export{e as data};

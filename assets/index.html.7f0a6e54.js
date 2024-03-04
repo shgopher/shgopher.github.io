@@ -1,0 +1,1 @@
+const a={key:"v-22363044",path:"/tags/basic/",title:"basic | Tags",lang:"zh_CN",frontmatter:{title:"basic | Tags",layout:"Tags",blog:{type:"category",name:"basic",key:"tag"}},excerpt:"",headers:[],git:{},filePathRelative:null};export{a as data};

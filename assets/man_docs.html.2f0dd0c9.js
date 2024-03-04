@@ -1,0 +1,1 @@
+const a={key:"v-4d61f66d",path:"/posts/2023/4/docs/Cobra/docs/man_docs.html",title:"Generating Man Pages For Your Own cobra.Command",lang:"zh_CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1680550024e3},readingTime:{minutes:1,words:85},filePathRelative:"posts/2023/4/docs/Cobra/docs/man_docs.md"};export{a as data};

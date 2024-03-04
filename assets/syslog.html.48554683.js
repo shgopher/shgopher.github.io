@@ -1,0 +1,1 @@
+const s={key:"v-4af97713",path:"/posts/2023/4/docs/logrus/docs/syslog.html",title:"Syslog Hooks for Logrus",lang:"zh_CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"Usage",slug:"usage",children:[]}],git:{updatedTime:1680550024e3},readingTime:{minutes:1,words:136},filePathRelative:"posts/2023/4/docs/logrus/docs/syslog.md"};export{s as data};

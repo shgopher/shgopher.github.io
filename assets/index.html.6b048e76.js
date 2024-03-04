@@ -1,0 +1,1 @@
+const t={key:"v-006403d8",path:"/tags/linux/",title:"Linux | Tags",lang:"zh_CN",frontmatter:{title:"Linux | Tags",layout:"Tags",blog:{type:"category",name:"Linux",key:"tag"}},excerpt:"",headers:[],git:{},filePathRelative:null};export{t as data};

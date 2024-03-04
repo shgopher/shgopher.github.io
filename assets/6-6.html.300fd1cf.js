@@ -1,0 +1,1 @@
+import{_ as e,o as t,a as o,b as _}from"./app.e0455488.js";const s={},a=_("a",{href:"/pdf/go-30-tips.pdf"},"30\u4E2Ago\u8BED\u8A00\u907F\u5751\u5C0F\u6280\u5DE7",-1),c=[a];function r(n,f){return t(),o("p",null,c)}var d=e(s,[["render",r],["__file","6-6.html.vue"]]);export{d as default};

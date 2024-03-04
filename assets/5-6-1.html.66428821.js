@@ -1,0 +1,1 @@
+import{_ as e,o as t,a as o,b as _}from"./app.e0455488.js";const a={},r=_("a",{href:"/pdf/mastering-go-cn.pdf"},"mastering go",-1),s=[r];function c(n,f){return t(),o("p",null,s)}var d=e(a,[["render",c],["__file","5-6-1.html.vue"]]);export{d as default};

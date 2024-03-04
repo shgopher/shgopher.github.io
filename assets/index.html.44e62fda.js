@@ -1,0 +1,1 @@
+const e={key:"v-543c61ee",path:"/tags/awesome/",title:"awesome | Tags",lang:"zh_CN",frontmatter:{title:"awesome | Tags",layout:"Tags",blog:{type:"category",name:"awesome",key:"tag"}},excerpt:"",headers:[],git:{},filePathRelative:null};export{e as data};

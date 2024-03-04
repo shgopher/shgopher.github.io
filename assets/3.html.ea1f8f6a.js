@@ -1,0 +1,1 @@
+import{_ as e,o as t,a as _,b as a}from"./app.e0455488.js";const o={},c=a("a",{href:"/pdf/Makefile.pdf"},"\u8FD9\u91CC\u662F\u5730\u5740",-1),r=[c];function s(n,f){return t(),_("p",null,r)}var d=e(o,[["render",s],["__file","3.html.vue"]]);export{d as default};
